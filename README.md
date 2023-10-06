@@ -4,7 +4,7 @@
 
 This repository is for people looking for a convenient way to deploy Holy Unblocker.
 
-The website repository can run without other scripts being installed, however you'll only get the frontend. We configured all required [dependencies](#dependencies) to make deployment streamline.
+The website repPository can run without other scripts being installed, however you'll only get the frontend. We configured all required [dependencies](#dependencies) to make deployment streamline.
 
 ## Configurations
 
